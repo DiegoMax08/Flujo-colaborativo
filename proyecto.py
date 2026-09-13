@@ -10,3 +10,5 @@ print("Promedio:", promedio)
 
 cantidad = len(datos)
 print("Cantidad de datos:", cantidad)
+
+print("\n--- Resultados del análisis ---")
