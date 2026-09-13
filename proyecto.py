@@ -1,6 +1,5 @@
 print("Análisis estadístico de datos")
 datos = [10, 20, 30, 40, 50]
-<<<<<<< HEAD
 print("Datos:", datos)
 
 suma = sum(datos)
@@ -13,20 +12,6 @@ cantidad = len(datos)
 print("Cantidad de datos:", cantidad)
 
 print("\n--- Resultados del análisis ---")
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 maximo = max(datos)
 print("Maximo:", maximo)
@@ -36,6 +21,3 @@ print("Minimo:", minimo)
 
 rango = max(datos) - min(datos)
 print("Rango:", rango)
-
-
->>>>>>> origin/persona-B
